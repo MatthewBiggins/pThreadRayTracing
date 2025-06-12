@@ -29,7 +29,7 @@ All results are in seconds
 
 ## task.c results
 
-| Scale / Threads | 2      |
+| Scale \ Threads | 2      |
 |-----------------|--------|
 | 1               | 37.5   |
 | 2               | 150.5  |
