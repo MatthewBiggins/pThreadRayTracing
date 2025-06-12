@@ -1,4 +1,4 @@
-## This was a project I completed ffor the course Parallel Programming (CIS3090). 
+## This was a project I completed for the course Parallel Programming (CIS3090). 
 
 Performs a comparison of data parallelism and task parallelism with pThreads using the raytracing code in ray.c from:
 https://www.purplealienplanet.com/node/23
