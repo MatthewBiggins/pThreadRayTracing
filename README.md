@@ -13,7 +13,7 @@ All results are in seconds
 
 
 ## data.c results
-    threads     1       2       4       8       16      32      64   
+   threads      1       2       4       8       16      32      64   
 Scale
   1            0.07    0.04    0.03    0.02    0.01    0.01    0.01
 
@@ -33,7 +33,7 @@ Scale
 
 
 ## task.c results
-    threads     2
+   threads     2
 Scale
   1           37.5
 
