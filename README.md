@@ -28,15 +28,13 @@ All results are in seconds
 
 
 ## task.c results
-   threads     2
-Scale
-  1           37.5
 
-  2          150.50
-
-  3          338.70
-
-  4          602.04
+| Scale / Threads | 2      |
+|-----------------|--------|
+| 1               | 37.5   |
+| 2               | 150.5  |
+| 3               | 338.70 |
+| 4               | 602.04 |
 
 
 
